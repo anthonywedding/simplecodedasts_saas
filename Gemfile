@@ -48,6 +48,10 @@ gem 'figaro', '1.0.0'
 # Use paperclip for image uploads
 gem 'paperclip', '4.2.1'
 
+# Use OmniAuth for social login
+gem 'omniauth', '1.3.1'
+gem 'omniauth-facebook', '3.0.0'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '3.1.7'
 
